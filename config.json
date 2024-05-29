@@ -1,0 +1,6 @@
+{
+    "storage": "json",
+    "mongodb_connection_string": "mongodb://localhost:27017",
+    "master_key": "master_key"
+  }
+  
